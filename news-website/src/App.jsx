@@ -1,11 +1,12 @@
-// eslint-disable-next-line no-unused-vars
-import navbar from "./components/navbar"
-
+import Navbar from './components/navbar'
 
 const App = () => {
   return (
+<div>
 
-    <navbar/>
+  <navbar />
+</div>
+    
   )
 }
 
