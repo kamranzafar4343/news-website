@@ -1,6 +1,6 @@
 # Building a News Website with React JS and Bootstrap
 
-Welcome to our tutorial on building a news website using React JS and Bootstrap! In this guide, we'll walk you through the process of creating a dynamic news website or web app by leveraging the power of React JS and integrating it with the News API.
+Creating a dynamic news website or web app by leveraging the power of React JS and integrating it with the News API.
 
 ## Prerequisites
 
@@ -50,11 +50,7 @@ npm install bootstrap
 
 ## Deployment
 
-Once you have completed building your news website, you can deploy it to platforms like Netlify, Vercel, or GitHub Pages for others to access and enjoy.
-
-## Conclusion
-
-Congratulations! You have successfully built a news website/web app using React JS and Bootstrap, and integrated it with the News API. Feel free to customize and enhance your website further by adding features like search, filters, and user authentication. Happy coding! 🚀
+Building news website, deploy it to platforms Vercel, or GitHub Pages for others to access and enjoy.
 
 ---
 
